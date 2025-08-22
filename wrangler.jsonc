@@ -4,4 +4,7 @@
     "assets": {
        "directory": "./"
     }
+"vars":{
+"PASSWORD":"114514"
+}
 }
