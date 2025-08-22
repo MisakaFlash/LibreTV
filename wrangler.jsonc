@@ -2,6 +2,6 @@
   "name": "tvtest1",
   "compatibility_date": "2025-08-22",
     "assets": {
-       "directory": "./functions"
+       "directory": "./"
     }
 }
